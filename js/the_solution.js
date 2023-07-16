@@ -1,0 +1,1 @@
+alert(demoVar + ' at ' + timestamp);
